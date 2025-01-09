@@ -1,0 +1,37 @@
+-- LIVING --
+
+For the light subset (n = 100 ):
+          Mean: 137.79481366664 
+          Standard Deviation: 151.343199243507 
+          Median: 91.14619048 
+
+
+For the dark subset (n = 100 ):
+          Mean: 90.7841090483 
+          Standard Deviation: 77.9096080641798 
+          Median: 60.792619045 
+
+-- FIXED --
+
+For the light subset (n = 100 ):
+          Mean: 88.78954166353 
+          Standard Deviation: 101.165351866017 
+          Median: 45.526916665 
+
+
+For the dark subset (n = 100 ):
+          Mean: 75.672585 
+          Standard Deviation: 81.2439376787944 
+          Median: 49.07125 
+
+-- ALL --
+
+For the light subset (n = 200 ):
+          Mean: 143.403395135 
+          Standard Deviation: 158.133537111171 
+          Median: 85.5475 
+
+For the dark subset (n = 200 ):
+          Mean: 104.965895025 
+          Standard Deviation: 105.264596164718 
+          Median: 63.64 
